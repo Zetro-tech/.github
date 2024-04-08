@@ -1,4 +1,4 @@
-# Welcome to Zetro!
+# :wave: Welcome to Zetro!
 ## Our Tagline -
 ###### "Elevate Your Digital Presence"
 
