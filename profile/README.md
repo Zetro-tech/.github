@@ -1,4 +1,6 @@
 # Welcome to Zetro!
+## Our Tagline -
+###### "Elevate Your Digital Presence"
 
 [Visit our website - zetro.tech](https://zetro.tech)
 
@@ -14,4 +16,11 @@
 
 Exciting updates and new services are on the horizon at Zetro. Stay tuned for more information!
 
-Explore our services and embark on a transformative journey with Zetro!
+
+## Contact Us At - support@zetro.tech
+
+## Follow Us On - 
+
+<a href="https://www.instagram.com/zetro.tech/">
+  <img align="center" width="22px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+</a> 
